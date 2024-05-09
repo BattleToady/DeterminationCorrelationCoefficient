@@ -1,6 +1,6 @@
 # Determination Correlation Coefficient
 
-Project Description
+## Project Description
 This repository contains code for computing the correlation coefficient, which is used in the article "Determination-based correlation coefficient".
 
 Repository Contents
